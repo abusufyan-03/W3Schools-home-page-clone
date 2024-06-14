@@ -25,15 +25,15 @@ for more screenshot vist screenshots folder
 
 **Challenges Encountered**
 
-* **Example 1:** Replicating the navigation bar's layout using nested lists and CSS. 
-* **Example 2:** Finding a  font that closely resembled the W3Schools font style.
-* **Example 3:**  Achieving precise spacing and padding throughout the design.
+&#10687; Replicating the navigation bar's layout using nested lists and CSS. 
+&#10687; Finding a  font that closely resembled the W3Schools font style.
+&#10687;  Achieving precise spacing and padding throughout the design.
 
 **Lessons Learned**
 
 &#10687; Reinforced the importance of the CSS box model for layout.
 &#10687; Deepened understanding of CSS specificity and accurate element targeting.
- &#10687; Emphasized the value of browser DevTools for debugging. 
+&#10687; Emphasized the value of browser DevTools for debugging. 
 
 **How to View** 
 * **Download:** Download the files and open the index.html page in a web browser to view the project.
